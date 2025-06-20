@@ -97,11 +97,6 @@ http://localhost:5000
 * Haar Cascade XML
 * Tesseract OCR (installed separately)
 
----
-
-## 🎥 Demo
-
-*(Add GIF or YouTube video link here if available)*
 
 ---
 
@@ -123,7 +118,7 @@ Fork this repo → Make changes → Submit Pull Request ✅
 
 ## 📧 Contact
 
-Made with ❤️ by \[DEEPAK RAJ JS]
+Made with ❤️ by DEEPAK RAJ JS
 🔗 [GitHub](https://github.com/deepakrajjs) | 📧 [deepakrajs2909@gmail.com]
 ---
 
