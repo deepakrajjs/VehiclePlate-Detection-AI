@@ -123,9 +123,8 @@ Fork this repo → Make changes → Submit Pull Request ✅
 
 ## 📧 Contact
 
-Made with ❤️ by \[Your Name]
-🔗 [GitHub](https://github.com/your-username) | 📧 [your.email@example.com](mailto:your.email@example.com)
-
+Made with ❤️ by \[DEEPAK RAJ JS]
+🔗 [GitHub](https://github.com/deepakrajjs) | 📧 [deepakrajs2909@gmail.com]
 ---
 
 ## ⭐ Support
