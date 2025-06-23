@@ -125,4 +125,4 @@ Made with ❤️ by DEEPAK RAJ JS
 ## ⭐ Support
 
 If you like this project❤️, **give it a ⭐ on GitHub**.
-It motivates me to build more awesome projects! ✨
+It motivates me to build more awesome projects! 
