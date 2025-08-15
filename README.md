@@ -5,7 +5,7 @@ An **AI-powered Indian Vehicle Number Plate Recognition System** built using **P
 Detect number plates from vehicle images, extract text, identify the state from the plate code, and log everything — all from a simple and interactive web interface.
 
 ---
-
+ 
 ## ✨ Features 
 
 * 🎯 **Automatic Number Plate Detection** (Haar Cascade)
