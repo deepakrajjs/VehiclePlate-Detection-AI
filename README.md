@@ -1,4 +1,4 @@
-# 🚗 VehiclePlate-Detection-AI 🇮🇳
+ # 🚗 VehiclePlate-Detection-AI 🇮🇳
 
 An **AI-powered Indian Vehicle Number Plate Recognition System** built using **Python**, **OpenCV**, **Tesseract OCR**, and **Flask**.
 
