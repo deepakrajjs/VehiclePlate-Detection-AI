@@ -7,7 +7,7 @@ Detect number plates from vehicle images, extract text, identify the state from 
 ---
  
 ## ✨ Features 
-
+ 
 * 🎯 **Automatic Number Plate Detection** (Haar Cascade)
 * 🔎 **Text Extraction** using Tesseract OCR
 * 🗺️ **Indian State Identification** from plate code
