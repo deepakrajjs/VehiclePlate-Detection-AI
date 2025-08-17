@@ -1,7 +1,7 @@
  # 🚗 VehiclePlate-Detection-AI 🇮🇳
 
 An **AI-powered Indian Vehicle Number Plate Recognition System** built using **Python**, **OpenCV**, **Tesseract OCR**, and **Flask**.
-
+ 
 Detect number plates from vehicle images, extract text, identify the state from the plate code, and log everything — all from a simple and interactive web interface.
 
 ---
