@@ -13,7 +13,7 @@ Detect number plates from vehicle images, extract text, identify the state from 
 * 🗺️ **Indian State Identification** from plate code
 * 🗂️ **Cropped Plate Saving** with Timestamp
 * 📑 **Detection Logs Stored** in CSV
-* 🌐 **Flask Web Interface** for uploads & results
+* 🌐 **Flask Web Interface** for uploads & results 
 
 ---
 
